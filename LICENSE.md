@@ -1,4 +1,4 @@
-BeccaBot Copyright 2020 Nicholas Carrigan(“Licensor”)
+Angular Tour of Heroes Copyright 2020 Nicholas Carrigan(“Licensor”)
 
 Hippocratic License Version Number: 2.1.
 
