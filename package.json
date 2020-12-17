@@ -1,7 +1,7 @@
 {
   "name": "angular-tour-of-heroes",
   "version": "0.0.0",
-  "license": "Hippocratic-2.1",
+  "license": "AGPL-3.0-or-later",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
